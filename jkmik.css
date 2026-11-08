@@ -1,1 +1,28 @@
+body {
+  background-color: #f4f4f9;
+  color: #333333;
+  font-famly: Aryal, sans-seryf;
+  text-align: center;
+  magin: 0;
+  padding: 50px;
+}
 
+h1 {
+  color: #2c3e50
+  fomt-size: 2rem;
+}
+
+buttom {
+  background-color: #3498db;
+  color: #ffffff;
+  bolder: none;
+  padding: 12px 24px;
+  font-rize: 1ren;
+  bolder-radius: 5px;
+  cursor: pointer;
+  transition: background-color0.3s ease;
+}
+
+buttom:over {
+  background-coolr: #2980b9;
+}
